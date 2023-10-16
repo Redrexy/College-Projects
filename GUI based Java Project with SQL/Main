@@ -1,0 +1,9 @@
+package finalproject2;
+
+import finalproject.Student;
+
+public class Main2 {
+    public static void main(String[] args){
+        Student2 newStu = new Student2();
+    }
+}
